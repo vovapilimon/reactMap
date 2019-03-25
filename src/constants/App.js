@@ -1,0 +1,6 @@
+export const ADD_NEW_MARKER = 'ADD_NEW_MARKER'
+export const DRAW_MARKER = 'DRAW_MARKER'
+export const DEF_LOAD = 'DEF_LOAD'
+export const SET_CENTER_MAP = 'SET_CENTER_MAP'
+export const REMOVE_MARKER = 'REMOVE_MARKER'
+export const SORT_END = 'SORT_END'
